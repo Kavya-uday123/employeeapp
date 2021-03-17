@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body style="background-color:cadetblue;">
-@yield("content")
+@yield("theme")
 <br>
 <h5><center>ADD EMPLOYEE</center></h5>
 <br>
