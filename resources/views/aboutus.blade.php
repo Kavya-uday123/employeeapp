@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
+@extends("theme")
+@section("content")
+<br>
+<h5><center>ABOUT US</center></h5>
+<br>
     <div class="container">
     <div class="row">
-    <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-"></div>
-    <div class="col"></div></div></div>
-</body>
-</html>
+    <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum magni cum accusamus, nobis dolor quibusdam qui natus asperiores dolores optio eveniet. Facilis dicta consequuntur, quis repudiandae sequi accusamus tempora reiciendis.</div>
+    <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum magni cum accusamus, nobis dolor quibusdam qui natus asperiores dolores optio eveniet. Facilis dicta consequuntur, quis repudiandae sequi accusamus tempora reiciendis.</div>"></div></div></div>
+    @endsection

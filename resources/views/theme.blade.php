@@ -20,6 +20,9 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/search">Search</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/aboutus">About Us</a>
+        </li>
       </ul>
     </div>
   </div>
