@@ -23,5 +23,5 @@ Route::get('/search', function () {
 
 
 Route::get('/aboutus', function () {
-    return view('sboutus');
+    return view('aboutus');
 });
